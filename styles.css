@@ -11,3 +11,9 @@ header {
     color: white;
     min-height: 30vh;
 }
+
+.wrapper {
+    width: 90%;
+    max-width: 1080px;
+    margin: 0 auto;
+}
