@@ -21,3 +21,7 @@ header {
 html {
     font-family: 'Courier New', Courier, monospace;
 }
+
+section {
+    border-bottom: #000 10px;
+}
