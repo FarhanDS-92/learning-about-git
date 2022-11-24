@@ -17,3 +17,7 @@ header {
     max-width: 1080px;
     margin: 0 auto;
 }
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
